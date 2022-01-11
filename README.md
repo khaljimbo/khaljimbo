@@ -1,3 +1,1 @@
-[![khaljimbo](https://www.khaljimbo.com/assets/images/me.jpg)](https://www.khaljimbo.com)
-
-Hi, I'm James.
+[![khaljimbo](./img/hello.png)](https://www.khaljimbo.com)
