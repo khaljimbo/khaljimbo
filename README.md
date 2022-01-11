@@ -1,1 +1,1 @@
-[![khaljimbo](./img/hello.png)](https://www.khaljimbo.com)
+[![khaljimbo](https://user-images.githubusercontent.com/32300870/149016880-6b93a72e-2854-4191-925d-180381a0488b.png)](https://www.khaljimbo.com)
